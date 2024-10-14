@@ -1,5 +1,4 @@
 my_string = input('')
-count = int(my_string.count('')) - 1
 print(len(my_string))
 print(my_string.upper())
 print(my_string.lower())
